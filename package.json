@@ -1,0 +1,15 @@
+{
+  "name": "eri-xrefdb-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "eri-config": "git+https://github.com/BioEnrichment/eri-config.git",
+    "request": "^2.85.0"
+  }
+}
