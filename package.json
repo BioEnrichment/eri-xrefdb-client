@@ -1,6 +1,6 @@
 {
   "name": "@bioenrichment/xrefdb-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "eri-config": "git+https://github.com/BioEnrichment/eri-config.git",
+    "@bioenrichment/config": "^0.1.0",
     "request": "^2.85.0"
   }
 }
